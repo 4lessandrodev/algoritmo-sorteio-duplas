@@ -42,3 +42,19 @@ li{
 th{
     text-transform: uppercase;
 }
+
+img{
+max-width: 70px;
+border-radius: 50%;
+border: 3px solid rgb(40, 145, 243);
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+tr:hover{
+    background-color: cornsilk;
+    cursor: pointer;
+    color: rgb(40, 145, 243);
+}

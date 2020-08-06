@@ -1,238 +1,93 @@
 const MEMBERS = [
     {
         id:1,
-        name: 'Rose Oyakawa#7170',
-        avatar:''
+        name: 'thassiadevilart#0693',
+        avatar:'https://avatars1.githubusercontent.com/u/46179885?s=460&u=7e81c98ab9f20cb0e925300f4ca5aa7ac96d469c&v=4'
     },
     {
         id:2,
-        name: 'thassiadevilart#0693',
-        avatar:''
+        name: 'Vinícius emidio#0839',
+        avatar:'https://filtrosevelas.com.br/img/default-user.png'
     },
     {
         id:3,
-        name: 'Vinícius emidio#0839',
-        avatar:''
-    },
-    {
-        id:4,
         name: 'Airtow#2869',
-        avatar:''
-    },
-    {
-        id:5,
-        name: 'Allan Gaby#0802',
-        avatar:''
-    },
-    {
-        id:6,
-        name: 'Allan Isaac#4371',
-        avatar:''
+        avatar:'https://avatars3.githubusercontent.com/u/67306463?s=460&u=a05a872e2bfe8bd2337a483911768b5ea1ba1194&v=4'
     },
     {
         id:7,
         name: 'Alessandrodev#5362',
-        avatar:''
+        avatar:'https://avatars1.githubusercontent.com/u/34426407?s=460&u=f254a9a50b99e2a8f63ce58958cb97089032e307&v=4'
+    },
+    {
+        id:4,
+        name: 'Andre Vieira#2476',
+        avatar:'https://avatars1.githubusercontent.com/u/56928555?s=460&u=b3796a627072a5edfc931b153db555f752491372&v=4'
+    },
+    {
+        id:5,
+        name: 'CandyDaniele#3696',
+        avatar:'https://avatars3.githubusercontent.com/u/60582129?s=100&v=4'
+    },
+    {
+        id:6,
+        name: 'Cosme#8991',
+        avatar:'https://avatars1.githubusercontent.com/u/45211236?s=460&u=19fdc5e37716714b4b7136474829d2da0cd8fc45&v=4'
     },
     {
         id:8,
-        name: 'Anderson Dascds#2628',
-        avatar:''
+        name: 'diogo_costa#9482',
+        avatar:'https://avatars0.githubusercontent.com/u/62573994?s=460&u=876fa58f6a433c6a3caf2fc253b88b71c2800590&v=4'
     },
     {
         id:9,
-        name: 'Andre Bozzato#2535',
-        avatar:''
+        name: 'Ediney#7384',
+        avatar:'https://filtrosevelas.com.br/img/default-user.png'
     },
     {
         id:10,
-        name: 'Andre Vieira#2476',
-        avatar:''
+        name: 'Gabriel#3012',
+        avatar:'https://avatars0.githubusercontent.com/u/31799208?s=100&v=4'
     },
     {
         id:11,
-        name: 'brn.bru#6864',
-        avatar:''
+        name: 'Lettie#9556',
+        avatar:'https://avatars2.githubusercontent.com/u/54192824?s=460&u=1acbae58170ff0c5e932030b0a1bf51613ac029d&v=4'
     },
     {
         id:12,
-        name: 'CandyDaniele#3696',
-        avatar:''
+        name: 'muriloignaccio#8094',
+        avatar:'https://avatars3.githubusercontent.com/u/54823475?s=100&v=4'
     },
     {
         id:13,
-        name: 'Allan Isaac#4371',
-        avatar:''
+        name: 'Rafael Sanches#0260',
+        avatar:'https://avatars0.githubusercontent.com/u/40367010?s=460&u=aa720d84c98adb3bb53aa7b4e8de3d35249ac775&v=4'
     },
     {
         id:14,
-        name: 'Cosme#8991',
-        avatar:''
+        name: 'Ray_vieira#1926',
+        avatar:'https://avatars3.githubusercontent.com/u/67801932?s=460&u=75843fc2cade9a980be58dd2cf975efbcf12fffb&v=4'
     },
     {
         id:15,
-        name: 'd3bz#3402',
-        avatar:''
+        name: 'ronielpontes#4342',
+        avatar:'https://avatars2.githubusercontent.com/u/8785783?s=460&v=4'
     },
     {
         id:16,
-        name: 'diogo_costa#9482',
-        avatar:''
+        name: 'SrTonn#1674',
+        avatar:'https://filtrosevelas.com.br/img/default-user.png'
     },
     {
         id:17,
-        name: 'Edelvandro#0302',
-        avatar:''
+        name: 'Almir Acacio#1373',
+        avatar:'https://filtrosevelas.com.br/img/default-user.png'
     },
     {
         id:18,
-        name: 'Ediney#7384',
-        avatar:''
-    },
-    {
-        id:19,
-        name: 'enzo dtz#9726',
-        avatar:''
-    },
-    {
-        id:20,
-        name: 'feroli#1078',
-        avatar:''
-    },
-    {
-        id:21,
-        name: 'Gabriel#3012',
-        avatar:''
-    },
-    {
-        id:22,
-        name: 'Guilherme Novaes#7440',
-        avatar:''
-    },
-    {
-        id:23,
-        name: 'israel.nicacio#7219',
-        avatar:''
-    },
-    {
-        id:24,
-        name: 'Jeh#6922',
-        avatar:''
-    },
-    {
-        id:25,
-        name: 'jenasj#8074',
-        avatar:''
-    },
-    {
-        id:26,
-        name: 'João Vitor da Cruz#8869',
-        avatar:''
-    },
-    {
-        id:27,
-        name: 'Kauã Landi#0188',
-        avatar:''
-    },
-    {
-        id:28,
-        name: 'Lettie#9556',
-        avatar:''
-    },
-    {
-        id:29,
-        name: 'Marcos Oliveira#7747',
-        avatar:''
-    },
-    {
-        id:30,
-        name: 'markfel-marcos#4053',
-        avatar:''
-    },
-    {
-        id:31,
-        name: 'Max Costa#6052',
-        avatar:''
-    },
-    {
-        id:32,
-        name: 'muriloignaccio#8094',
-        avatar:''
-    },
-    {
-        id:33,
-        name: 'Nathan de Andrade#7957',
-        avatar:''
-    },
-    {
-        id:34,
-        name: 'Pcruz#3338',
-        avatar:''
-    },
-    {
-        id:35,
-        name: 'Pedrosoluc#1935',
-        avatar:''
-    },
-    {
-        id:36,
-        name: 'Rafael Sanches#0260',
-        avatar:''
-    },
-    {
-        id:37,
-        name: 'Ray_vieira#1926',
-        avatar:''
-    },
-    {
-        id:38,
-        name: 'ronielpontes#4342',
-        avatar:''
-    },
-    {
-        id:39,
-        name: 'Silas#0971',
-        avatar:''
-    },
-    {
-        id:40,
-        name: 'Srsantos#5998',
-        avatar:''
-    },
-    {
-        id:41,
-        name: 'SrTonn#1674',
-        avatar:''
-    },
-    {
-        id:42,
-        name: 'wesleybs002#4215',
-        avatar:''
-    },
-    {
-        id:43,
-        name: 'wesleyrod#5125',
-        avatar:''
-    },
-    {
-        id:44,
-        name: 'Almir Acacio#1373',
-        avatar:''
-    },
-    {
-        id:45,
-        name: 'Alexander Danowicz#0495',
-        avatar:''
-    },
-    {
-        id:46,
         name: 'JamesG#8524',
-        avatar:''
-    },
-    {
-        id:47,
-        name: 'wagverly#0362',
-        avatar:''
+        avatar:'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4'
     },
 ];
 
