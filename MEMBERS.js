@@ -14,11 +14,11 @@ const MEMBERS = [
         name: 'Airtow#2869',
         avatar:'https://avatars3.githubusercontent.com/u/67306463?s=460&u=a05a872e2bfe8bd2337a483911768b5ea1ba1194&v=4'
     },
-    {
-        id:7,
-        name: 'Alessandrodev#5362',
-        avatar:'https://avatars1.githubusercontent.com/u/34426407?s=460&u=f254a9a50b99e2a8f63ce58958cb97089032e307&v=4'
-    },
+    // {
+    //     id:7,
+    //     name: 'Alessandrodev#5362',
+    //     avatar:'https://avatars1.githubusercontent.com/u/34426407?s=460&u=f254a9a50b99e2a8f63ce58958cb97089032e307&v=4'
+    // },
     {
         id:4,
         name: 'Andre Vieira#2476',
@@ -71,8 +71,8 @@ const MEMBERS = [
     },
     {
         id:15,
-        name: 'ronielpontes#4342',
-        avatar:'https://avatars2.githubusercontent.com/u/8785783?s=460&v=4'
+        name: 'Kinha#5670',
+        avatar:'https://avatars0.githubusercontent.com/u/56558061?s=460&u=a3f1ace0a0eef8b5f89a208a1083a2ced7938136&v=4'
     },
     {
         id:16,
@@ -88,6 +88,11 @@ const MEMBERS = [
         id:18,
         name: 'JamesG#8524',
         avatar:'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4'
+    },
+    {
+        id:19,
+        name: 'acarolinapassos#4874',
+        avatar:'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4'
     },
 ];
 
